@@ -1,0 +1,32 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+#chess {
+
+    width: 400px;
+    margin: 150px auto;
+
+}
+
+.black {
+    background-color: black;
+}
+
+#chess td {
+    width: 400px;
+    height: 50px;
+    border: 1px solid black;
+}
+
+.basket {
+    width: 250px;
+    height: 150px;
+    border: 1px solid black;
+    margin: 150px auto;
+}
