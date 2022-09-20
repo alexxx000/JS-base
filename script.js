@@ -1,3 +1,5 @@
+// Заглушка
+
 "use strict";
 
 const shopBasket = {
